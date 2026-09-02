@@ -1,0 +1,17 @@
+.header1 {
+    background-color: #acac02;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin: 10px;
+}
+
+.btn1 {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #02708edb;
+    color: bisque;
+}
